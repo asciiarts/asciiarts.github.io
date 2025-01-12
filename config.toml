@@ -41,7 +41,7 @@ Paginate = 10
 	hideAuthor = true
 	darkMode = false
 
-  [params.mytags]
+  [params.mytags] 
 	go = 'Go is developed by google.'
 	php = 'PHP is the most populer language for web developemnt.'
 
