@@ -1,0 +1,128 @@
+baseURL = 'https://asciiarts.github.io/'
+languageCode = 'en-us'
+title = 'Ascii.Arts'
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+theme = 'lightbi-hugo'
+
+
+googleAnalytics = "G-T2KBJB0NWW"
+enableRobotsTXT = true
+enableGitInfo = false
+Paginate = 10
+
+[permalinks]
+  posts = '/:slug/'
+  tags = 'tag/:slug/'
+  
+[minify]
+  minifyOutput = false
+  
+[params]
+    showRelatedPosts = true #for lightbi related posts
+    description = "Ascii Arts"
+    author = "asciiarts"
+    selfHosted = true
+	mainSections = ["post","posts"]
+	#dateFormat = "2 January 2023"
+	comments = false
+	readingTime = false
+	wordCount = false
+	useHLJS = false
+	socialShare = true
+	delayDisqus = true
+	summaryLength  = "9"
+	gcse = false
+	Lastmod = true
+	rss = true 
+	pagination = "10"
+	hideAuthor = true
+	darkMode = false
+
+  [params.mytags]
+	go = 'Go is developed by google.'
+	php = 'PHP is the most populer language for web developemnt.'
+
+
+
+#nav main menu
+
+[[menu.main]]
+    name = "Image to Ascii"
+    url = "/"
+    weight = 1	
+
+[[menu.main]]
+    name = "Top 10"
+    url = "/Top10/"
+    weight = 2
+
+[[menu.main]]
+    name = "Keywords"
+    url = "/PornKeywords/"
+    weight = 3
+	
+[[menu.main]]
+    name = "Indian"
+    url = "/Indian/"
+    weight = 4
+
+[[menu.main]]
+    name = "Videos"
+    url = "/Videos/"
+    weight = 5
+
+
+
+[[menu.main]]
+    name = "Photos"
+    url = "/Photos/"
+    weight = 6
+
+
+
+
+#menu for footer
+
+[[menu.footer]]
+    name = "Tool"
+    url = "/"
+    weight = 1	
+
+[[menu.footer]]
+    name = "Top 10"
+    url = "/Top10/"
+    weight = 2
+
+[[menu.footer]]
+    name = "Keywords"
+    url = "/Keywords/"
+    weight = 3
+	
+[[menu.footer]]
+    name = "Indian"
+    url = "/Indian/"
+    weight = 4
+
+[[menu.footer]]
+    name = "Videos"
+    url = "/Videos/"
+    weight = 5
+
+
+
+[[menu.footer]]
+    name = "Photos"
+    url = "/Photos/"
+    weight = 6
+    
+[[menu.footer]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 6
+	
+
+
+

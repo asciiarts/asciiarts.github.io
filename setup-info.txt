@@ -1,0 +1,10 @@
+#create new site in the current folder
+hugo new site .
+
+git init
+
+git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo
+
+git remote add origin https://github.com/asciiarts/asciiarts.github.io
+
+git branch -M main
