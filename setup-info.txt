@@ -5,6 +5,6 @@ git init
 
 git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo
 
-git remote add origin https://github.com/asciiarts/asciiarts.github.io
+git remote add origin https://github.com/imagetoascii/imagetoascii.github.io
 
 git branch -M main
