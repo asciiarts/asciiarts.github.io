@@ -99,6 +99,11 @@ Paginate = 10
     weight = 1	
 
 [[menu.footer]]
+    name = "Figlet"
+    url = "/figlet"
+    weight = 1	
+
+[[menu.footer]]
     name = "ASCII Banners"
     url = "/ascii-banners/"
     weight = 2
