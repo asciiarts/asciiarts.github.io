@@ -1,7 +1,8 @@
 baseURL = 'https://imagetoascii.github.io/'
 languageCode = 'en-us'
-title = 'Ascii.Arts'
+title = 'ASCII.Art'
 
+#ascii 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -21,7 +22,12 @@ Paginate = 10
   minifyOutput = false
   
 [params]
+    hometitle = 'Image to ASCII Picture Generator'
+	homedescription = ''
+    tagline = 'ASCII Art'
+	
     showRelatedPosts = true #for lightbi related posts
+	title = 'Image to ASCII Picture Generator'
     description = "Ascii Arts"
     author = "asciiarts"
     selfHosted = true
