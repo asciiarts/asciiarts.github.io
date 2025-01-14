@@ -57,35 +57,35 @@ Paginate = 10
 #nav main menu
 
 [[menu.main]]
-    name = "Image to Ascii"
+    name = "Image to ASCII"
     url = "/"
     weight = 1	
 
 [[menu.main]]
-    name = "Top 10"
-    url = "/Top10/"
+    name = "ASCII Art"
+    url = "/ascii-art/"
     weight = 2
 
 [[menu.main]]
-    name = "Keywords"
-    url = "/PornKeywords/"
+    name = "ASCII Artwork"
+    url = "/ascii-artwork/"
     weight = 3
 	
 [[menu.main]]
-    name = "Indian"
-    url = "/Indian/"
+    name = "ASCII Drawing"
+    url = "/ascii-drawing/"
     weight = 4
 
 [[menu.main]]
-    name = "Videos"
-    url = "/Videos/"
+    name = "ASCII picture"
+    url = "/ascii-picture/"
     weight = 5
 
 
 
 [[menu.main]]
-    name = "Photos"
-    url = "/Photos/"
+    name = "Notepad Art"
+    url = "/notepad-art/"
     weight = 6
 
 
@@ -94,41 +94,56 @@ Paginate = 10
 #menu for footer
 
 [[menu.footer]]
-    name = "Tool"
-    url = "/"
+    name = "Tools"
+    url = "/tools"
     weight = 1	
 
 [[menu.footer]]
-    name = "Top 10"
-    url = "/Top10/"
+    name = "ASCII Banners"
+    url = "/ascii-banners/"
     weight = 2
 
 [[menu.footer]]
-    name = "Keywords"
-    url = "/Keywords/"
+    name = "ASCII Graphics"
+    url = "/ascii-graphics/"
     weight = 3
 	
 [[menu.footer]]
-    name = "Indian"
-    url = "/Indian/"
+    name = "ASCII Image"
+    url = "/ascii-image/"
     weight = 4
 
 [[menu.footer]]
-    name = "Videos"
-    url = "/Videos/"
+    name = "Funny TEXT Art"
+    url = "/funny-text-art/"
     weight = 5
 
 
 
 [[menu.footer]]
-    name = "Photos"
-    url = "/Photos/"
+    name = "Middle Finger TEXT Art"
+    url = "/middle-finger-text-art/"
     weight = 6
     
 [[menu.footer]]
+    name = "Shrek ASCII"
+    url = "/shrek-ascii/"
+    weight = 7
+	
+[[menu.footer]]
+    name = "Simple ASCII Art"
+    url = "/simple-ascii-art/"
+    weight = 8
+	
+[[menu.footer]]
+    name = "ASCII Art Logo"
+    url = "/ascii-art-logo/"
+    weight = 9
+	
+[[menu.footer]]
     name = "Tags"
     url = "/tags/"
-    weight = 6
+    weight = 10
 	
 
 
