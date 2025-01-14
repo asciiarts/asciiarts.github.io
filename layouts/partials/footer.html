@@ -66,7 +66,7 @@
               </span>
             </a>
           </li>
-		  |
+		  <!--|
 		  <li>
 		    <a href="{{ "" | absLangURL }}sitemaps" title="HTML SiteMaps">
             
@@ -74,7 +74,7 @@
                 <i class="bi bi-rss">HTML SiteMaps</i>
               </span>
             </a>
-          </li>
+          </li-->
 		  
 		  
         </ul>
@@ -101,7 +101,7 @@
 
           {{ if .Site.Title }}
           &nbsp;&bull;&nbsp;
-          <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+          <a href="{{ "" | absLangURL }}">{{ $.Site.Params.tagline }}</a>
           {{ end }}
         </p>
         <!-- Please don't remove this, keep my open source work credited. -->
