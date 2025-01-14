@@ -28,7 +28,7 @@
 <!-- Site Title, Description, Author, and Favicon -->
 {{ if .IsHome }}
     {{ if .Paginator.HasPrev }}
-        <title>{{ $.Site.Title }} - Page {{ .Paginator.PageNumber }}</title>
+        <title>{{ $.Site.Params.tagline }} - Page {{ .Paginator.PageNumber }}</title>
         {{ if (isset $.Site.Params "description") }}
             <meta name="description" content="{{ $.Site.Params.description }} - Page {{ .Paginator.PageNumber }}">
         {{ end }}
