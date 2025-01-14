@@ -1,0 +1,79 @@
+[[menu.footer]]
+    name = "Tools"
+    url = "/tools"
+    weight = 1	
+
+[[menu.footer]]
+    name = "Figlet"
+    url = "/figlet"
+    weight = 1	
+
+[[menu.footer]]
+    name = "ASCII Banners"
+    url = "/ascii-banners/"
+    weight = 2
+
+[[menu.footer]]
+    name = "ASCII Graphics"
+    url = "/ascii-graphics/"
+    weight = 3
+	
+[[menu.footer]]
+    name = "ASCII Image"
+    url = "/ascii-image/"
+    weight = 4
+[[menu.main]]
+    name = "ASCII Art"
+    url = "/ascii-art/"
+    weight = 2
+
+[[menu.main]]
+    name = "ASCII Artwork"
+    url = "/ascii-artwork/"
+    weight = 3
+	
+[[menu.main]]
+    name = "ASCII Drawing"
+    url = "/ascii-drawing/"
+    weight = 4
+
+[[menu.main]]
+    name = "ASCII picture"
+    url = "/ascii-picture/"
+    weight = 5
+	
+
+[[menu.main]]
+    name = "Notepad Art"
+    url = "/notepad-art/"
+    weight = 6
+
+	
+	
+	
+[[menu.footer]]
+    name = "Funny TEXT Art"
+    url = "/funny-text-art/"
+    weight = 5
+
+
+
+[[menu.footer]]
+    name = "Middle Finger TEXT Art"
+    url = "/middle-finger-text-art/"
+    weight = 6
+    
+[[menu.footer]]
+    name = "Shrek ASCII"
+    url = "/shrek-ascii/"
+    weight = 7
+	
+[[menu.footer]]
+    name = "Simple ASCII Art"
+    url = "/simple-ascii-art/"
+    weight = 8
+	
+[[menu.footer]]
+    name = "ASCII Art Logo"
+    url = "/ascii-art-logo/"
+    weight = 9
