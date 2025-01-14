@@ -23,7 +23,8 @@ Paginate = 10
   
 [params]
     hometitle = 'Image to ASCII Picture Generator'
-	homedescription = ''
+	homedescription = 'Convert cool photos into fun Text Art i.e. Notepad Art with Image to ASCII Picture Generator tool online.'
+	
     tagline = 'ASCII Art'
 	
     showRelatedPosts = true #for lightbi related posts
