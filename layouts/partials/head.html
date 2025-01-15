@@ -33,7 +33,7 @@
             <meta name="description" content="{{ $.Site.Params.description }} - Page {{ .Paginator.PageNumber }}">
         {{ end }}
     {{ else }}
-        <title>{{ $.Site.Params.hometitle }} - {{ $.Site.Params.tagline }}</title>
+        <title>{{ $.Site.Params.hometitle }} - {{ $.Site.Params.hometagline }}</title>
         {{ if (isset $.Site.Params "description") }}
             <meta name="description" content="{{ $.Site.Params.description }}">
         {{ end }}
