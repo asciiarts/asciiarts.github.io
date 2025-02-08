@@ -23,7 +23,7 @@ Paginate = 10
   
 [params]
     hometitle = 'Image to ASCII Picture Generator'
-	hometagline = 'Convert Image Notepad Art'
+	hometagline = 'Convert Image to Notepad Art'
 	homedescription = 'Convert cool photos into fun Text Art i.e. Notepad Art with our Image to ASCII Picture Generator tool online.'
 	
     tagline = 'ASCII Art'
@@ -74,5 +74,33 @@ Paginate = 10
     weight = 10
 	
 
+[[menu.footer]]
+    name = "DMCA"
+    url = "/dmca/"
+    weight = 5
+	
+[[menu.footer]]
+    name = "About Us"
+    url = "/about-us/"
+    weight = 1
 
+[[menu.footer]]
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 10
 
+[[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 3
+	
+[[menu.footer]]
+    name = "Terms of Service"
+    url = "/terms/"
+    weight = 4
+
+	
+[[menu.footer]]
+    name = "Contact Us"
+    url = "/contact-us/"
+    weight = 2
